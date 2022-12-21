@@ -1,7 +1,7 @@
 # Social Chat Landing Page
 
 
-<img src="./preview-image.png" alt="preview" width="400"/>
+<img src="images/scl-preview-image.png" alt="preview"/>
 
 Responsive landing page built using HTML, CSS and JavaScript.
 
