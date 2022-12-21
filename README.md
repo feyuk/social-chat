@@ -11,19 +11,12 @@ Responsive landing page built using HTML, CSS and JavaScript.
 
 - Clone the repository
   ```sh
-  git clone https://github.com/denielden/react-qrcode-generator.git
+  git clone https://github.com/feyuk/social-chat
   ```
 - Navigate to repository folder
   ```sh
-  cd qrcode-generator
+  cd social-chat
   ```
-- Install npm packages
-  ```sh
-  npm install
-  ```
-- To run the app in the development mode run in the project directory: 
-  ```sh
-  npm start
-  ```
+
 
 
